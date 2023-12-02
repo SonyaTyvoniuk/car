@@ -4,7 +4,7 @@ class Car
 {
     public string Name;
     public string Color;
-    public double Price;
+    public double Price, CompanyName;
 
     public Car()
     {
